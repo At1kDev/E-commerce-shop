@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "MacBook Air M2",
+    "Word": "Light. Fast. Ready to go.",
+    "price": "$999",
+    "image": "data:image/avif;base64,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",
+    "description": "Thin and lightweight MacBook with Apple silicon performance, a bright display, and all-day battery life."
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air M3",
+    "Word": "Fast meets effortless",
+    "price": "$1099",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR69Xo4DO6VKs7HkmzGg75MHbOwjUXbKZeWo0B98UUunQ&s=10",
+    "description": "Portable performance with the M3 chip, a sharp display, and a silent fanless design."
+  },
+  {
+    "id": 3,
+    "name": "MacBook Air M4",
+    "Word": "In everywhere with you",
+    "price": "$1399",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8P3Nrxowz6ScQtrQxSPi2_SZnuuELIoYfPdoDt3jy3w&s=10",
+    "description": "Ultra-thin laptop with incredible speed, silent performance, and all-day battery life."
+  },
+  {
+    "id": 4,
+    "name": "MacBook Pro M4",
+    "Word": "Just Pro performance.",
+    "price": "$1599",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkKqM79acMV4J0ikkP7835J0jtAZVwJATXGOJDFwu-FA&s=10",
+    "description": "High-performance MacBook for demanding creative, development, and professional workflows."
+  },
+  {
+    "id": 5,
+    "name": "MacBook Pro M4 Pro",
+    "Word": "Serious power for serious work",
+    "price": "$1999",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQLDSuMQXQL0gEk6GgdsUAKqxpMdeoBigrhNnHXIftFDQ&s=10"
+  },
+  {
+    "id": 6,
+    "name": "MacBook Pro M4 Max",
+    "Word": "Maximum pro performance",
+    "price": "$3199",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQ6jvNcLGavGi_hJR8WgkjKcOb3LrZWNx7ddZP2c8ILg&s=10",
+    "description": "Top-tier MacBook Pro designed for intensive creative and professional workflows."
+  },
+  {
+    "id": 7,
+    "name": "Mac mini M4",
+    "Word": "Small size. Huge potential.",
+    "price": "$599",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcpVwQ17GhQgbiVYlir5heDtwDgqmdkEUVzvLuf7NMKw&s=10",
+    "description": "Compact desktop Mac with Apple silicon performance for work, study, and creativity."
+  },
+  {
+    "id": 8,
+    "name": "Mac mini M4 Pro",
+    "Word": "Tiny desktop. Pro power.",
+    "price": "$1399",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9KSmd30OxIFdjuUTysVhNtCGD4oUamwXLCici6G753g&s",
+    "description": "Compact desktop with enhanced performance for demanding professional tasks."
+  }
+]

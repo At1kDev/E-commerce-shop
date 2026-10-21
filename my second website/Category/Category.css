@@ -1,0 +1,109 @@
+.bigParent{
+    display: flex;
+    background-color: rgb(221, 221, 221);
+    margin: 0.6rem;
+    border-radius: 20px;
+    height: 44rem;
+}
+
+.CateNav{
+    display: grid;
+    background-color: white;
+    width: 5.8rem;
+    justify-content: center;
+    align-items: flex-start;
+    border-radius: 20px;
+    margin: 1rem ;
+}
+.CateNavElem{
+    display: grid;
+    width: 80px;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 0; 
+    margin-top: 2px;
+}
+.CateNavElements{
+  width: 70px;
+  margin-top: 8px;
+  background-color: rgb(221, 221, 221);
+  border-radius: 20px;
+  padding: 4px;
+  display: grid;
+  justify-content:center
+}
+
+.CateNavElements:hover{
+    border: 3px solid gray;
+    background-color: #e9e2e2;
+}
+
+#productContainer{
+    width: 94%;
+}
+
+.CateCard{
+    display: inline-block;
+    width: 17.6rem;
+    height: 20.5rem;
+    border-radius: 20px;
+    background-color: white;
+    margin-top: 1rem;
+    margin-left: 1rem;
+}
+
+.CateCard h3,
+.CateCard p{
+    margin: 8px 0 8px 10px;
+}
+
+.name{
+    font-size:small;
+}
+
+.miniCont1{
+    display: flex;
+    background-color: white;
+    align-items: flex-start;
+    border-radius: 20px;
+}
+.likey{
+    font-size: large;
+}
+.CateCard img{
+    display: flex;
+    width: 14rem;
+    height: 220px;
+    margin-top: 8px;
+    margin-left:1.3rem;
+    align-items: flex-start;
+    justify-content: center;
+    border-radius: 20px;
+}
+.miniCont2{
+    display: flex;
+    background-color: white;
+    height: 2rem;
+    width: 17rem;
+    align-items: center;
+    border-radius: 20px;
+}
+
+.price{
+    font-size: small;
+}
+.Buy{
+    background-color: #cfcfcf;
+    display: grid;
+    width: 5.5rem;
+    height: 1.5rem;
+    border-radius: 20px;
+    justify-content:center;
+    align-items: center;
+    font-size:small;
+    margin-left: 52%;
+}
+
+.CateNavElements{
+    cursor: pointer;
+}

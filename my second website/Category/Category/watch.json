@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Apple Watch Series 11",
+    "Word": "Health. Fitness. Connected.",
+    "price": "$399",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1aYQUs4Cy21gTtLGepZDk42fUVSMp0-E2dbhZPIexjg&s",
+    "description": "Everyday Apple Watch with fitness features, health insights, notifications, and a bright display."
+  },
+  {
+    "id": 2,
+    "name": "Apple Watch Ultra 3",
+    "Word": "Built for adventure",
+    "price": "$799",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1YYQltuwLYD5FOmCS16Srd8F6IZmT9rhxGlnx_L8U_Q&s=10",
+    "description": "Rugged Apple Watch designed for athletes and adventurers with advanced health tracking and GPS."
+  },
+  {
+    "id": 3,
+    "name": "Apple Watch SE",
+    "Word": "Essential Apple Watch",
+    "price": "$249",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSxDbKCBra6GxbrTAwRUvJ4EMMmoUvFV_AAqKu93ub8Q&s=10",
+    "description": "Affordable Apple Watch with essential fitness, safety, and connectivity features."
+  },
+  {
+    "id": 4,
+    "name": "Apple Watch Hermès",
+    "Word": "Classic design.",
+    "price": "$1249",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLr9NsZQWvfcsf-dGGvNezUEKk0QZqwle00Jwy-RRQTA&s=10",
+    "description": "Premium Apple Watch combining advanced features with distinctive Hermès-inspired styling."
+  },
+  {
+    "id": 5,
+    "name": "Apple Watch Series 10",
+    "Word": "Thinner. Smarter. Brighter.",
+    "price": "$399",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGUsittVioqzwY2OYBMhKH8ydBnghc-pgcQKvWTwYB5w&s=10",
+    "description": "Slim Apple Watch with health, fitness, communication, and smart features."
+  },
+  {
+    "id": 6,
+    "name": "Apple Watch Ultra 2",
+    "Word": "Adventure starts here",
+    "price": "$799",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS1wN6xcoEgBVRc90-uUV8H3vkTuuzwKh1bxjMxpn3K7w&s",
+    "description": "Rugged smartwatch built for outdoor activities, training, and everyday exploration."
+  },
+  {
+    "id": 7,
+    "name": "Apple Watch Series 9",
+    "Word": "Powerful everyday companion",
+    "price": "$399",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1L_EbejATkbIye_oWfoDPGo52T91BJroX1ky9OMuwQA&s=10",
+    "description": "Smartwatch with fitness tracking, health features, notifications, and convenient controls."
+  },
+  {
+    "id": 8,
+    "name": "Apple Watch Nike",
+    "Word": "Run. Train. Stay connected.",
+    "price": "$429",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSx2ME4XSCpgsWuZldtvj-cpj_XD4NZd-p3asN4T6GzXw&s=10",
+    "description": "Fitness-focused Apple Watch with features designed around training and everyday activity."
+  }
+]

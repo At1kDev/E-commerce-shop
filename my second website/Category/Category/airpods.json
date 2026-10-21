@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "AirPods 4",
+    "Word": "All-day sound. All-day comfort.",
+    "price": "$129",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVLkrJ09SU4V-P5QEYcOH1pWWKDy-MnT4Jy0dZsTVIxQ&s=10",
+    "description": "Comfortable wireless earbuds with rich sound and seamless Apple device integration."
+  },
+  {
+    "id": 2,
+    "name": "AirPods 4 ANC",
+    "Word": "Quiet when you want it",
+    "price": "$179",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT41E78J-Y5yT-Vi3gvEp0M4A7F59py9uQQyFtSRjOliA&s=10",
+    "description": "Wireless earbuds with active noise cancellation, immersive sound, and a comfortable fit."
+  },
+  {
+    "id": 3,
+    "name": "AirPods Pro 3",
+    "Word": "Immersive sound. Less noise.",
+    "price": "$299",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqmkESwfwqIdJ1Mh_hLxOHNW9jqQU4JNKtm51APv0Vfw&s=10",
+    "description": "Premium earbuds with active noise cancellation, immersive sound, and clear voice quality."
+  },
+  {
+    "id": 4,
+    "name": "AirPods Max",
+    "Word": "Clear sound surrounds you",
+    "price": "$549",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_LCdgw4IsZ08Gvv9sSjYXUW5Vzn2o-3ggQhWiG7ubuA&s=10",
+    "description": "Over-ear headphones with high-fidelity audio, active noise cancellation, and a premium design."
+  },
+  {
+    "id": 5,
+    "name": "AirPods 3",
+    "Word": "Magic in every ear",
+    "price": "$169",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxsN3DAPXxNl1ZXmKDXbK9foJN5JcWHDo3vHCbVSPt8Q&s=10",
+    "description": "Wireless earbuds with comfortable fit, rich sound, and seamless device switching."
+  },
+  {
+    "id": 6,
+    "name": "AirPods Pro 2",
+    "Word": "Powerful noise cancellation",
+    "price": "$249",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnl2oXZ3NIFZHNkCYV7E13CnTZiXQEWua-kjohymdC1w&s=10",
+    "description": "Premium earbuds with active noise cancellation, transparency features, and immersive audio."
+  },
+  {
+    "id": 7,
+    "name": "AirPods 2",
+    "Word": "Simple wireless freedom",
+    "price": "$129",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT13nTz_ixkF8jU7WADDebujyCrML1J3JdLbJo_iCtaSQ&s=10",
+    "description": "Classic wireless earbuds offering easy pairing, convenient controls, and everyday listening."
+  },
+  {
+    "id": 8,
+    "name": "AirPods Max USB-C",
+    "Word": "Immersive over-ear audio",
+    "price": "$549",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRmzSYbzoG-zVOR-MHcZLissF8zaGKJkrmRV64n8OxSNw&s=10",
+    "description": "Premium over-ear headphones with immersive audio and convenient USB-C connectivity."
+  }
+]

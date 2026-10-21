@@ -1,0 +1,11 @@
+        /*section-1*/
+.myphoto {
+    position: relative;
+    width: 200px;
+    height: 200px;
+}
+.aboutMe {
+    position: relative;
+    width: auto;
+    background-color: rgb(114, 42, 177)
+}
