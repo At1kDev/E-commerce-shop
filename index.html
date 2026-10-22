@@ -1,0 +1,126 @@
+<!DOCTYPE html>
+<html lang="en" class="Totall">
+                                           <!-- heaed -->
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <title>online shopping</title>
+        <meta name="theme-color" content="#0a0a0b">
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap" rel="stylesheet">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/7.3.0/css/all.min.css" integrity="sha512-ApSLB1Pd3/bZN8fWB/RG9YhN/7bd9Hkf3AGaE2mPfebjrxagjuBtx2GcgdqIlJkUzwylBo61r9Xa9NmgBI0swA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+        <link href="images">
+        <link rel="stylesheet" href="index.css">
+        <link rel="stylesheet" href="effects.css">
+    </head>
+    <body>
+                                             <!--Navbar section-->
+    <section class="navbarMainPage">
+        <section class="section-navbar">
+            <div class="Navbar">
+                <i class="fa-solid fa-bag-shopping" style="color: rgb(7, 6, 6);"></i>
+                <a class="nav-home-btn" href="#mainPage">Store</a>
+                <a class="nav-newProducts-btn" href="#Latest">Latest</a>
+                <a class="nav-category-btn" href="#Category">Category</a>
+                <a class="nav-account-btn" href="#basket">basket</a>
+                <a class="nav-contact-btn" href="#contact">Contact</a>
+            </div>
+        </section>
+                                            <!--main-Page-->
+        <section class="section-mainPage" id="mainPage">
+            <div class="grandPart">
+                                            <!-- MainWord -->
+                <h1 class="mainWords">Store. All the original products are here</h1>
+                                            <!-- Support,Location -->
+                <div class="supportLocation">
+                    <a class="helpCenter">
+                        <i class="fa-solid fa-circle-user" style="color: rgb(0, 0, 0);"></i>
+                        <span>Need Help?</span>
+                    </a>
+                    <a class="Location">
+                        <i class="fa-solid fa-location-pin" style="color: rgb(0, 0, 0);"></i>
+                          <span>Location</span>
+                    </a>
+                </div>
+            </div>
+        </section>
+    </section>   
+                                             <!--the Latest-->
+        <section id="Latest">
+            <div class="grandCard">
+                <h3 class="Latest">The Latest</h3>
+                <div class="grandCardRow"></div>
+            </div>
+        </section>
+                                             <!--Category-->
+        <section id="Category">
+            <div class="grandCategory">
+                                            <!-- category / Word-->
+                <h3 class="CategoryWord">Category</h3>
+                                              <!-- category / cards-->
+                <div class="grandCategoryRow">
+                        <div  class="Card" data-category="iphone">
+                            <img src="images/iphone 17(2.avif" class="categoryImg" alt="iphone">
+                            <h4>Iphone</h4>
+                        </div>
+                        <div  class="Card" data-category="mac">
+                            <img src="images/macbook.avif" class="categoryImg" alt="macbook">
+                            <h4>Macbook</h4>
+                        </div>
+                        <div  class="Card" data-category="airpods">
+                            <img src="images/airpodspro 3.webp" class="categoryImg"  alt="airpods">
+                            <h4>Airpods</h4>
+                        </div>
+                        <div  class="Card" data-category="watch">
+                            <img src="images/applewatch.webp" class="categoryImg" alt="apple watch">
+                            <h4>Apple Watch</h4>
+                        </div>
+                        <div  class="Card" data-category="ipad">
+                            <img src="images/ipadpro.avif" class="categoryImg" alt="ipad">
+                            <h4>Ipad</h4>
+                        </div>
+                        <div  class="Card" data-category="home">
+                            <img src="images/home.jpg" class="categoryImg" alt="homePods">
+                            <h4>homePods</h4>
+                        </div>
+                        <div  class="Card" data-category="accessories">
+                            <img src="images/imagesAcc.jpg" class="categoryImg" alt="Accessories">
+                            <h4>Accessories</h4>
+                        </div>
+                </div>
+            </div>
+        </section>
+
+                                             <!--My basket-->
+        <section class="basket-section" id="basket">
+            <div class="Bigbasket-left">        
+                <div class="basket-left" id="basket-item">
+                </div>
+            </div>
+                <div class="basket-rigth">
+                      <h3 class="ProdAmount">Product amount: <span id="total-count">0</span></h3>
+                      <h3 class="OverallCost">Overall cost: $<span id="total-price">0</span></h3>
+                      <h3 class="credit">Credit: <span id="total-credit">0</span> <select id="credit-months" aria-label="Credit months"></select></h3>
+                      <button id="Verify-btn" type="button">Verification</button>
+               </div>
+        </section>
+
+                                             <!--Contact-->
+        <section class="section-Contact" id="contact">
+            <div class="contact">
+                <a class="account is-empty" data-contact="telegram" target="_blank" rel="noopener"><span class="account-name">Telegram</span><span class="account-sub">coming soon</span></a>
+                <a class="account is-empty" data-contact="instagram" target="_blank" rel="noopener"><span class="account-name">Instagram</span><span class="account-sub">coming soon</span></a>
+                <a class="account is-empty" data-contact="whatsapp" target="_blank" rel="noopener"><span class="account-name">WhatsApp</span><span class="account-sub">coming soon</span></a>
+                <a class="account is-empty" data-contact="github" target="_blank" rel="noopener"><span class="account-name">Github</span><span class="account-sub">coming soon</span></a>
+                <a class="account is-empty" data-contact="tiktok" target="_blank" rel="noopener"><span class="account-name">Tiktok</span><span class="account-sub">coming soon</span></a>
+            </div>
+            <h3 class="cuteNote">thank you for interesting to my e-commarise website</h3>
+        </section>
+                                             <!-- js file -->
+        <script src="effects.js"></script>
+        <script src="cart.js"></script>
+        <script src="index.js"></script>
+    </body>
+</html>

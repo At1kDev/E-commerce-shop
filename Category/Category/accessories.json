@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Magic Keyboard",
+    "Word": "Type with confidence",
+    "price": "$349",
+    "image": "images/keyboard.webp",
+    "description": "Premium keyboard with a comfortable typing experience and a clean Apple-inspired design."
+  },
+  {
+    "id": 2,
+    "name": "Apple Pencil Pro",
+    "Word": "Create without limits",
+    "price": "$149",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTyhEhOWrGX4J4gSygcXOcpR71AwbNHs8FGaM1XovrXVg&s=10",
+    "description": "Professional stylus with precise control, pressure sensitivity, and hover support."
+  },
+  {
+    "id": 3,
+    "name": "Magic Mouse",
+    "Word": "Simple. Precise. Wireless.",
+    "price": "$99",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTn7rIzPeKVSeFDf3MLizf-d9DQRT3cPbEtBkbD8uh5fw&s=10",
+    "description": "Wireless mouse with a smooth multi-touch surface and a minimalist design."
+  },
+  {
+    "id": 4,
+    "name": "AirTag",
+    "Word": "Keep track of your things",
+    "price": "$29",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTrOYW3LC9Z9Radjj94j4-veOp79JGFUqkuWirQQ4Wqqg&s=10",
+    "description": "Compact tracker designed to help you locate personal items through the Find My network."
+  },
+  {
+    "id": 5,
+    "name": "Magic Trackpad",
+    "Word": "Your Mac, more intuitive",
+    "price": "$149",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSs-IbI6iD_7WfnigEK-TQ1LTOXrOnLcqAA1dgs9qVAug&s=10",
+    "description": "Large multi-touch trackpad with precise gesture control and a comfortable glass surface."
+  },
+  {
+    "id": 6,
+    "name": "Apple Pencil USB-C",
+    "Word": "Write. Draw. Note.",
+    "price": "$79",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQP_kpf6U-38uM-JAzkpfdlfj9Zovy8OwkqmgK7TQtf4A&s=10",
+    "description": "Versatile stylus for writing, sketching, and marking up documents on compatible iPads."
+  },
+  {
+    "id": 7,
+    "name": "USB-C Charge Cable",
+    "Word": "Charge. Sync. Simple.",
+    "price": "$19",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAmDTHuCCH1M65qqZeC5IZCRpErZfU-1cjH4Thj02q9g&s=10",
+    "description": "USB-C cable for charging and connecting compatible Apple devices."
+  },
+  {
+    "id": 8,
+    "name": "20W USB-C Power Adapter",
+    "Word": "Fast charging, compact size",
+    "price": "$19",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlRuhpe1AWX5o8L2Xvo5h4tb-xambAbwsQF92OBJ4lbw&s=10",
+    "description": "Compact USB-C power adapter designed for convenient everyday charging."
+  }
+]

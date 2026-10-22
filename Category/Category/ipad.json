@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "iPad 11",
+    "Word": "Fun. Colorful. Powerful.",
+    "price": "$349",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2V_WogduNcpK4Vi5qmvwLKEuNiA3GhzaE74F2tfTKbg&s",
+    "description": "Versatile iPad with a beautiful display, capable performance, and a great everyday experience."
+  },
+  {
+    "id": 2,
+    "name": "iPad Air M3",
+    "Word": "Air power for everyone",
+    "price": "$599",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSVdW0VWuH20hhrSRS3wKSdTsCRoyasAmx6JCg2FuCYQg&s=10",
+    "description": "Thin and powerful iPad Air with Apple silicon performance for work, study, and creativity."
+  },
+  {
+    "id": 3,
+    "name": "iPad Pro M4",
+    "Word": "Power that feels unreal",
+    "price": "$999",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4aydIAMbHJbQ0jjLBYZSnmG0oV9Svlyl-cBEU6z-57w&s=10",
+    "description": "Premium iPad with a stunning display and desktop-class performance for demanding tasks."
+  },
+  {
+    "id": 4,
+    "name": "iPad mini",
+    "Word": "Small size. Big possibilities.",
+    "price": "$499",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx2iU56xF3c3zR7h6FsFNFDCbMWUDpSPhyrdskiwiRLg&s=10",
+    "description": "Compact iPad designed for reading, notes, entertainment, and portable creativity."
+  },
+  {
+    "id": 5,
+    "name": "iPad Air 11-inch",
+    "Word": "Power in a portable size",
+    "price": "$599",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQzWQDurJTQbhn_wv-5U4npLDHhpGUuDSV2OK9Vr9ss2g&s=10",
+    "description": "Portable iPad Air with a bright display and strong performance for everyday tasks."
+  },
+  {
+    "id": 6,
+    "name": "iPad Air 13-inch",
+    "Word": "More room to create",
+    "price": "$799",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7mrJl02GlCq-XF6jHtY5308318kzGx-qKq3ux8l29bA&s=10",
+    "description": "Large-screen iPad Air designed for multitasking, creativity, and entertainment."
+  },
+  {
+    "id": 7,
+    "name": "iPad Pro 11-inch",
+    "Word": "Pro power. Compact form.",
+    "price": "$999",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWXW6ThGM0lKVjGfIrWdRBQVijeVlot0AGDd8oTTDkQQ&s=10",
+    "description": "Compact professional iPad with powerful performance and a premium display."
+  },
+  {
+    "id": 8,
+    "name": "iPad Pro 13-inch",
+    "Word": "The ultimate iPad canvas",
+    "price": "$1299",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR8XQinD1CZ71LZ_ypPTCXGUqXGNFRl9DAYo_Fo-zlq2g&s=10",
+    "description": "Large professional iPad designed for demanding creative and productivity workflows."
+  }
+]

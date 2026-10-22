@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "AppleCare+",
+    "Word": "Extra peace of mind",
+    "price": "$199",
+    "image": "images/applecare.avif",
+    "description": "Extended service and support plan for eligible Apple devices and accidental damage coverage."
+  },
+  {
+    "id": 2,
+    "name": "iCloud+",
+    "Word": "More space. More privacy.",
+    "price": "$0.99",
+    "image": "images/icloud.avif",
+    "description": "Cloud storage with privacy features for photos, files, backups, and more."
+  },
+  {
+    "id": 3,
+    "name": "Apple Music",
+    "Word": "Millions of songs. One place.",
+    "price": "$10.99",
+    "image": "images/applemusic.avif",
+    "description": "Music streaming service with a large catalog, curated playlists, and high-quality audio."
+  },
+  {
+    "id": 4,
+    "name": "Apple TV+",
+    "Word": "Stories worth watching",
+    "price": "$9.99",
+    "image": "images/appletvplus.avif",
+    "description": "Streaming service featuring Apple Original series, films, documentaries, and more."
+  },
+  {
+    "id": 5,
+    "name": "Apple Arcade",
+    "Word": "Games worth playing",
+    "price": "$6.99",
+    "image": "images/applearcade.avif",
+    "description": "Gaming subscription with a curated collection of games across compatible Apple devices."
+  },
+  {
+    "id": 6,
+    "name": "Apple Fitness+",
+    "Word": "Move. Train. Feel good.",
+    "price": "$9.99",
+    "image": "images/applefitness.avif",
+    "description": "Fitness service with guided workouts and training sessions for compatible Apple devices."
+  },
+  {
+    "id": 7,
+    "name": "Apple One",
+    "Word": "More Apple. One subscription.",
+    "price": "$19.95",
+    "image": "images/appleone.avif",
+    "description": "Subscription bundle combining several Apple services in one plan."
+  },
+  {
+    "id": 8,
+    "name": "iCloud+ 200GB",
+    "Word": "More room for everything",
+    "price": "$2.99",
+    "image": "images/icloud200.avif",
+    "description": "Expanded cloud storage plan for photos, files, backups, and more."
+  },
+  {
+    "id": 9,
+    "name": "iCloud+ 2TB",
+    "Word": "Space for your biggest library",
+    "price": "$9.99",
+    "image": "images/icloud2tb.avif",
+    "description": "Large cloud storage plan designed for extensive photos, files, and device backups."
+  },
+  {
+    "id": 10,
+    "name": "Apple Developer Program",
+    "Word": "Build for Apple platforms",
+    "price": "$99",
+    "image": "images/appledeveloper.avif",
+    "description": "Developer membership concept for building, testing, and distributing apps for Apple platforms."
+  }
+]

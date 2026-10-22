@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "Phone 17",
+    "Word":"Big Battery.Best Camera.Best Experience",
+    "price": "$999",
+    "image": "images/iphone17.webp",
+    "description": "Powerful A19 chip, incredible battery life, and a premium titanium design built for everyday performance."
+  },
+  {
+    "id": 2,
+    "name": "MacBook Air M4",
+    "Word":"In everywhere with you",
+    "price": "$1399",
+    "image": "images/macbook(1.avif",
+    "description": "Ultra-thin laptop with incredible speed, silent performance, and all-day battery life."
+  },
+  {
+    "id": 3,
+    "name": "Apple Watch Ultra 3",
+    "Word":"The comfortable health checker",
+    "price": "$799",
+    "image": "images/watchultra3.avif",
+    "description": "Designed for athletes and adventurers with advanced health tracking and GPS."
+  },
+  {
+    "id": 4,
+    "name": "AirPods Pro 3",
+    "Word":"18 hour Non-stop",
+    "price": "$299",
+    "image": "images/airpodspro3.webp",
+    "description": "Immersive sound, active noise cancellation, and crystal-clear voice quality."
+  },
+  {
+    "id": 5,
+    "name": "iPad Pro M4",
+    "Word":"Mini Aassistant",
+    "price": "$1199",
+    "image": "images/ipadpro.avif",
+    "description": "A stunning Liquid Retina display combined with desktop-level performance."
+  },
+  {
+    "id": 6,
+    "name": "Magic Keyboard",
+    "Word":"Apple keyboards for Best feelings",
+    "price": "$349",
+    "image": "images/keyboard.webp",
+    "description": "Premium typing experience with a floating design and multi-touch trackpad."
+  },
+  {
+    "id": 7,
+    "name": "Apple Pencil Pro",
+    "Word":"More function - More Comfort",
+    "price": "$149",
+    "image": "images/pencilpro.webp",
+    "description": "Professional drawing experience with pressure sensitivity and hover support."
+  },
+  {
+    "id": 8,
+    "name": "HomePod Mini",
+    "Word":"Relax with new AI functions",
+    "price": "$99",
+    "image": "images/homepod.webp",
+    "description": "Compact smart speaker with rich sound and seamless Apple ecosystem integration."
+  }
+]

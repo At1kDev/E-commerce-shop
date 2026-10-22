@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "iPhone 17",
+    "Word": "Powerful. Beautiful. Effortless.",
+    "price": "$999",
+    "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQGRZK3jqbN0ZVBm9u5E4AUIBMvzjR1qaTTJKkJOlJiQh69UGBknWzw1ghhFCzXthOXQltDmn26t1I779AtY3yhlZW6pu6upwViIemoGXpizmLYAiDBXMVroFVmrYtfFGdR&usqp=CAc",
+    "description": "Next-generation iPhone with powerful performance, an advanced camera system, and all-day battery life."
+  },
+  {
+    "id": 2,
+    "name": "iPhone 17 Pro",
+    "Word": "Pro power in every detail",
+    "price": "$1199",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk10yvCYDv7J7ZuQaSEBGjV1ZLMNQwec8Lg4xlwNuONg&s",
+    "description": "Pro-grade performance with an advanced camera system, premium materials, and powerful everyday performance."
+  },
+  {
+    "id": 3,
+    "name": "iPhone 17 Pro Max",
+    "Word": "The ultimate iPhone",
+    "price": "$1299",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyfxyfmGJrcjOT2PnFhLMg1m049G7l3Cdx2KA1QBSzEg&s=10",
+    "description": "Maximum performance, an immersive display, advanced cameras, and exceptional battery life."
+  },
+  {
+    "id": 4,
+    "name": "iPhone 17 Air",
+    "Word": "Thin. Light. Remarkable.",
+    "price": "$1099",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR60tf_8v8SSAVd10UkEq7IzbLkL-B8uCNKuAkyzKxyRA&s=10",
+    "description": "A slim and lightweight iPhone designed for a beautiful everyday experience."
+  },
+  {
+    "id": 5,
+    "name": "iPhone 16",
+    "Word": "A powerful classic",
+    "price": "$799",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYTFMPAfpaBN1k6lkyz_5lmWxGshwjiSu_EGqqbyJNpA&s=10",
+    "description": "A powerful everyday iPhone with an advanced camera system and smooth performance."
+  },
+  {
+    "id": 6,
+    "name": "iPhone 16 Plus",
+    "Word": "More screen. More fun.",
+    "price": "$899",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYX6g1dzGrFoaEmKu7ZZKy-c2vKkq54riUT3gmPlR2vA&s",
+    "description": "Large-display iPhone with strong performance, great cameras, and long battery life."
+  },
+  {
+    "id": 7,
+    "name": "iPhone 16 Pro",
+    "Word": "Titanium. Pro. Powerful.",
+    "price": "$999",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXWQiANgAN84_kanHRDI8HpKELxXbIZNMdvSuBNOOQAQ&s=10",
+    "description": "Pro performance with advanced cameras, a premium titanium design, and a high-quality display."
+  },
+  {
+    "id": 8,
+    "name": "iPhone 16 Pro Max",
+    "Word": "Maximum. In every way.",
+    "price": "$1199",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNbnIiJKp_vUEFQZiVwx7ESmbHykIUqbWTKkAA4pZOIQ&s=10",
+    "description": "Large Pro iPhone with advanced camera capabilities, powerful performance, and excellent battery life."
+  }
+] 

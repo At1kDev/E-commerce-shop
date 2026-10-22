@@ -1,0 +1,66 @@
+[
+  {
+    "id": 1,
+    "name": "HomePod mini",
+    "Word": "Room-filling sound",
+    "price": "$99",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRSwINfIoQvmQ5MzJajQxyNyh63ydmjwhcQxbscvwsObQ&s=10",
+    "description": "Compact smart speaker with rich sound and seamless integration with Apple devices."
+  },
+  {
+    "id": 2,
+    "name": "HomePod",
+    "Word": "Sound that fills the room",
+    "price": "$299",
+    "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBxITEhUSEhMWFhUXFRcYGBcYGRgbFRcXGRsXGBoVFhgfHSgiGx0lHRgXITEhJSkrLjAuFx8zODMtNygtLisBCgoKDg0OFQ8QFzceFR0rLSstMC03Ny43LS0rLS04LS0tKys1LS0tKy03LS0rKysxKzItLS0tLSsrKy0tKysrK//AABEIAO4A1AMBIgACEQEDEQH/xAAcAAEAAgIDAQAAAAAAAAAAAAAAAgMBBgQFBwj/xABHEAABAQUEBwQGCAQEBwEAAAABAAIRMUHwAyFRgQRhcZGhscEFB9HxBhIyQnLhEyIkNFJissJzgpKiJTNT0hQXRFRjw9Mj/8QAGQEBAQEBAQEAAAAAAAAAAAAAAAIBAwUE/8QAKxEBAAIBAgMECwAAAAAAAAAAAAECEQMEEzFBBRJRoRRCUlNhcYGRscHx/9oADAMBAAIRAxEAPwD3FERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQERVaRpLFmHttssjFogc0FqLXNP9ONBso2vrHBkE8YLotL72NEZ9mztGtvqs9SmDL0BF5Xbd8bPuaMTtb8GVQe9rSD7GhjP1zjs1KorM9HO2rSvOXraLyH/mlp5hobH9Npq/Nt3J/wAz+0f+zY/ptNf5tm/VfvCv4OfpWj7cfd68i8iHenpo9rQ2chaDDWdass+921H+ZobtjTQxxZTuWjoqNxpTytD1lF5jYd8Vh7+jtDY2yeBAXcaH3n6A25/0jHxMh3AlTiXTv18W7Iur0D0i0S2d9HbsEmRLjuLiu0WKEREBERAREQEREBERAREQFRpulsWTBbtGgyyOJwGJVto2GQWiXAB5OoLx30v9JWtItC4/UHssydidZi/Y4hy2IHedt+njbRLNh9RnH3znBmXG9alpHahbL7RotPfeTffgV0lrpE30I6n71SbY9MZ+rHdk8LUrrHs9ktPtrUkPgz9XeL+a2Tsqw7OYjZ2ZOLRN608W4Owu13H1OjfAFVtW9zy+D8Jesf8A2b1cWx0dqasVjE0ifm9e0HT9DZ9lixGxlmsV3Nh2tYSDGQC8GtLWTxPmRk4+oc1E2u3ZDLbEbWWYT2b5VxNH3UfT+Poez7TsjhwWW9NsZu3L53/4k4njr8TvIi4LDWltTLW86/E/1EC8kDIs46nDtGIrjze7af2hoo9oM7gta7R0rRmvZZZGu7kvK2rfEnffwneRdM3PddA2r9vi/g87mM19Onuopyr5vF3PZU6/O8RHwr+8t80prRjc0LM1tXQadoein2PqnFk+a6L6cZF5Gw+uf081MW/PqepJyWam6m/qwzb9j10Zzxbfh3HZjX0T/Wa9f8NznayZnJbH2T6V29ifqWhd+A3s7pZb1ozGkT4ZAu4sjzVzGkVvHQm5fLL2KxiMQ949GfTKy0lzDbmLSQ91r4T0PFbQvmrRtNIIIOuqzXs3d96Tf8VZ/R2h/wD0YAvm2zB+0TUzColt6IixoiIgIiICIiAiIg1PvG7T+i0YMCNoXfyi89F4zpNq83zecxUXZrf+9fTH27FmPdswcySfBeaaQ288PEmtUY1CZQtLUx1ftaunqp4VVrau2vfuvn/CNfWUG28BV12EAyMzIX8ct4He78pfv9Vq/wD1CTIILi3IGF37X3O/IZRfdEw+lL3gX3Ou1ks4T9dmUZC80lrU/AXvIwvMSy8XwLIJkq/XfrfsvDV93xO9YTLQL7kF4tYOLxc68XiDJuxH1bps3OvKibWnx16nwfJoXX3qgtv1xmXF83ugYvxDgoFvoZzuhJ+Hum9ByDa1Dy1/hN8Som056+WOqXtLjFvrEEwxxdMe9FYLXPOEH4/mwuQXm1obrsdWN5isG1x543XfpBmSZ3rjFvpIzwHIe7FY+k11DlDGKDlfTY3xfDEPGx4ZZyL8VIWhzhnfeP5mics1w/XyzhwljiXFZDWXQC52Qu1FrBBzfpvEZPIjqDO/NWM2kq94DkN4z4IbrWC/mBkySFZZt4aujofy/wBRk8AOzsrXd8lsnoh2wdH0mztH3Bq/WybmuE75bDqFk1WzjC6cN/YaG3eMHvz8avQfUjJeHhZXV+i+kfSaJYNmJsmQdoDieC7RSoREQEREBERAREQeL95tsDploMPVH9o8VodsKls1UMCt07xm36bbbQOAC0i3rD5C4v2ERcqS49odp5+D4nb6sgFQWtnTyvnJoNGCnaA7eecnvwmQIMFUNmrziYTEdt491Bho9M37cSLh+Jl5uKiWn5vnF98RAE3v/E8LDRxwL3nIvO4Ez+q6ag01Rxm8Y4iDMUAtdJHlJ+HulQaPWW8nV+LFYaPWRz+f4oqBzjqe+WboGDrkEidsdT3y/mdAwcoE7HOyds/C+UXqLR2Ocdjv9r4zeok7X5Pe79TsnIJk89T3ux/FrwWH9JHhqwEoqsmpO8H5vStb9uOvBBYGqqipP6ZO8JHEqkHpXylFSDVcnZQxDyguZPhhldu1XlWMtVxyi/V6zJg9UMmpZasMBcYq1g1UJ7CTJBy7M1W/eJBc7Rzf5VVy62yarfKUOBEgux0WNbKGUkH0P3cWha7PsnxHrj+5pbMtR7rD9gZ1Nt839VtylQiIgIiICIiAiIg8K7xD9ttvjx1DctNt/Dq5z9lz8Hn2VufeJ98tviPILS9IqfnLbdiVSXCtsuJlwDuBdFtVNm/573unB52Ae0VbbGn7Z7y/a1IKhqrncJXPukHzcgrw6ACUgYFz3CADxFyrfyE7tTtWEzAqbWXEi+/Mc7mlW14xdm88zuQQaNbNfX3YKDXjK52zDVF96k0a+U9k4qBrxf8AuyQYL9cdT3u/U6cHKLVYO8NUUNXdMPyxmsGvPHXJBg1B7/HWlQ6Yas1iodOk0qPXrkgkDXz6zgsjx+b+o2OURVdFlmul/LCaC1msfPnkpsVPdjdvF0Sqma8uks1azXO93HeIIOTZGo4T3X/CcVz9HlVVrXX2VYx5v4l0Glz9HlVVig+gO6r7gP4jfRbitN7qPuA/it/tW5KZVAiIgIiICIiAiIg8L7xB9stviygFpekxrXuid5d7QW594v3y2+LoFplvGhj89jjgFSXCtn05/HW7MCQK47VT84ZuBkVfbVd0zF2t01S2af12zxLhcSgqaPWfXbE43C4qo+EsIbHSHuzVhGHAauBduDxFyqPQcYZYYzQQb8dQdPW58ZvhcoNV5Y6oTU2q88dcoKtqrrnbIu1RyQRJp/X92Swa8uiyc+D3u3P4ZqJrB3hxQYJp/XqlVr4Ic+FP4JUOnRBkVWCkzVU9RBr59clIV1+Y3IJs+Hyv3uO18lYxUvKWwuk9Vs1j58DkrGZVsd0fF7jFBybKsMIZQweIgLn6PJcCxlWE8LtzjEFc/R5fKqcg9/7qPuA/it9FuS07upH2AfxG+i3FTKhERAREQEREBERB4X3i/fba/wB7oFpduKFbNwfArde8cfbbb4hyC0rSZ+fnEbXjEqkuFbGoCZjsng8xIVDcaf4Ax2XiYV9t1xz6PfqLUAFQ2K+XTUSYBBS1U9cJ4uzN4VRrqXz1mclafGids5m+D1W1WN3B43MyQVtVDLbsgZ3qs1fxf+7JWNeMumGqJiFBrPg97tz+GaCBFO4O/bmomvF/VTNYO5u4qJrb48EEa+TuiVR6oarDilV4wQZFVW9ZHTZCslgV5dM1Jmq670ExXl03TVjFVPreRe5VjpsrmM1azVDZlEQQciyre9/V+JBgSufo0qrpvXAsq3/OGJdAhdhowhtqvFB9Ad1X3AfxG+i3Baf3V/cGf4jfRbgplQiIgIiICIiAiIg8O7yB9stviHIU9aRpNcd0TvIHtBbz3ks/bbXaz+keK0fSaljunscZgKkuFbDnq2XyiIYgCDJXHaqfGctZcDIrkWwp2wQ4O1hmJKobq/ruv1h0SgpPjGOBvgMHygLiqj0EnbA7kJTVtXB3Aw2QAui5VNZQGJjzB3tTQVt+M8KjKVyg0Kdwd+3NTaraNeOuAgVBqsHc3cckETXi/wDdkoGruDuimag9/J+qCiarDXFBE159Uqh0WTVY8Fiq1cUGRVVuUhVU9RFefXJSHjXylJBNmr+vXfJWsU67y6Tueqmax8OhdqVrEq2Ox6vcYoORY1yhKYdqIiAux0ZddY15zu4AGLJXY6L1qspIPoDus+4M/G30W3rUu64f4fZ/E3zcttUyoREQEREBERAREQeJ95X3212s/pEFomkV8n5RwBPslb53lj7bav8Ayy/KzvWh6RT3HfvF03jEqkuDa1uxkHE63EmLQVDcfJ8xsB4B5/EFfamn53Y3vLzMFqAZVDddLsjdqL4BBU1lxMYXTxdOJvCqarqXz1mclaT12bSdsSIlxFz1U1WN18rgRuZigraFRydPZOd6gfn83/uyU2vGVXcTEKLWfB7+T+GaCs1dwdh+XNYNeL+sFk1f1w1xWDXljqggjUOnRKo9ckqtXFZqVP4IMiqresipeXRRFV0lFSZrp5zmgmBXy6bpq1ip+fWIvKqZ6bKHEZq1in15REkHJsa5+BfrBmV2OiC+qoTeuusag+eWWJMmgux0ONUaKD6D7sB/h9n8Tf6itrWsd2w/w+y2t/raWzqZUIiICIiAiIgIiIPGe9Rl2mNHFljk6K8+thUNXjr9oCS9P73rB1uw3I2Q3gtdHLzG3rGU8Yf24KkuA35wfnjeALpgCDJVDdeeWbh+Eq9sVAYQlc7JwiSqWjT3a8i7cHTJQUnjfg944A3xgHumqiOQk7ZdyG+5W1Dc4HgztfJVNdNub5g4+9CSCto9Z9dWMoKDQ2buDv2zirGs+GXy4qto9Z778NcRsQRNYv2464KBq7phqiptV4O/bmoGr+vXJANefVYqh0zSqHRKrVxQZHhXzUh4yrdOSjVa+cFIVVOggsZq/r12vkrbOql0hJVM+PzrwVtnVU8Om9ByLActgnKXmJBdlosRVZdF11lXD5cF2WhyqtiD6K7vrN3Z9hrZaO9porYl1XopYepoejs/+Fg5kAnmu1UqEREBERAREQEREGid7OglrR2LUe40QdQaEd44rxXSGaqnEr6a7V0Fm3sW7FqDbJGwyORcV85+kHZ7dhat2TYc0yXESLoZEcCqhkuitTVRvMMTqK4zVOvndeY3m7El8DdyLWsavF/5mti4zda3vhg+/YH4lGKmzy1nbrIxMS50QoNHbHU97n73ZAXi9SaNcnDK4Sc+IVRNSd4czfBBE5c49D/conP5+PAQKy0am+O/HCSgarpOKDB8djvDisHPg9/jwQmvnjrlBRNXdMNWaAawd4cUqjjrWDXn1yWH1XKSCQrKoSUwaqna1WDVVipCqp0UFrNOryhirWBVU/aVSK+fXzVzFcvluQcqxqpR4nBd/wCjegm2t7KyZi22yMiQ87r10NjVbP1L2HuZ9HSWmtMbH1WXs2Wto3NNDYLszgg9as2AyAyIAADYLlJEUqEREBERAREQEREBal6eehrOmsevZuZt2R9VowbH4GuhkttRB8q9r9nWthaGztWGmGxcQYi8h4xuMRcuqbNbruQ2Mr6s7c7A0bS2PU0iyZbEjBtn4WheF5l293Lkva0TSP5LUX5Ns9WVWU4eMtmsX+LtwGVbRqfny2rbO1u7vtOweWtFbaZHvWZZtAdgZJakyLwFqmkWLTJ9VoEHAhx1vBzyCCkmtUssNd+pRJrnW5SaCgRVVmgiTVVisErJCw5Bh6PRyOQZCkDVVzUXLtOyewNK0ku0fR7W11ssks5teyMyg4LFcvlsO6+zFZeBG5b92J3Odo2rjbCz0dn87Qbbd8LBIg6LQXpfox3T6FoxDdq/SbQO/wAwAWYOIs/9xKZMPOO730BttNaFraBqz0YF5bgWx+Gz/wB0Nq+gND0ViyYZs7NkMsMAMsgQACtZZADgHAXACACypUIiICIiAiIgIiICIiAiIgIiIC4um9nWNsHW1lZ2gwbYZaHELlIg1XSe7rspuOh2TPwAsbvVIXVW3c/2U1CztWfhtW/3Erf0Qeat9yfZpg3pI2NsdbMqsdx/Z3+rpR/nsv8A5L05EyYecWfct2WI/TtbbR3JkLsdF7qOyGP+m9b47S0a5tLdkQdH2f6HdnWJfZaHo7JHvfRslr+oh67tlkAOAcMBBZRAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQEREBERAREQf/9k=",
+    "description": "Powerful smart speaker designed for immersive audio and a connected home experience."
+  },
+  {
+    "id": 3,
+    "name": "Apple TV 4K",
+    "Word": "Your entertainment, elevated",
+    "price": "$129",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU0z-LaOZqzUrVK9iJyt6vBjlfnrP4WaiLy5_9wrfA6A&s=10",
+    "description": "Powerful streaming device for movies, shows, games, and Apple services on your TV."
+  },
+  {
+    "id": 4,
+    "name": "Apple TV Remote",
+    "Word": "Control it all",
+    "price": "$59",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3WgJuPDD04s_yRAXU316AGw94Q0fAe9-W7Dp0itClFA&s=10",
+    "description": "Simple rechargeable remote designed for easy control of Apple TV."
+  },
+  {
+    "id": 5,
+    "name": "HomePod mini Blue",
+    "Word": "Colorful sound for every room",
+    "price": "$99",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSEI-A5n-odf8nhIekydLbdy4KqhYJJtSJ6qyNMPmARg&s=10",
+    "description": "Compact smart speaker concept with rich sound and a colorful finish."
+  },
+  {
+    "id": 6,
+    "name": "HomePod mini Yellow",
+    "Word": "Bright sound. Small footprint.",
+    "price": "$99",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSxlDNQImHT5LF4F2EjEEVxDh4wzDawKr5Ajq6rY-xHpQ&s",
+    "description": "Compact smart speaker concept with rich audio and a bright finish."
+  },
+  {
+    "id": 7,
+    "name": "Apple TV 4K Wi-Fi",
+    "Word": "Stream in stunning quality",
+    "price": "$129",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRkW5SAMzeMAOogKmtrzyUWusPI66adsIj80rlYDH5EoA&s=10",
+    "description": "Streaming box for high-quality movies, shows, games, and Apple services."
+  },
+  {
+    "id": 8,
+    "name": "Apple TV 4K Ethernet",
+    "Word": "Connected entertainment",
+    "price": "$149",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlGSOfw687wjjjYfzT_-_44FdYefaVbatWKGBDHus6Tw&s=10",
+    "description": "Apple TV 4K concept with wired networking for a stable connected entertainment setup."
+  }
+]
